@@ -4067,6 +4067,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
+  /*float: left;*/
   border-color: #101010;
 }
 .navbar-inverse .navbar-nav > .open > a,
